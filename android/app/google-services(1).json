@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1091379896396",
+    "firebase_url": "https://isqrac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "isqrac",
+    "storage_bucket": "isqrac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091379896396:android:3ca9b58f36824decead4e9",
+        "android_client_info": {
+          "package_name": "isqrac.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091379896396-1p1mrso0pl6d25o88dee1oevvkbiqm1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-42oz-ik-8OLXs3qNTmV9IzmJu-GvcRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091379896396-1p1mrso0pl6d25o88dee1oevvkbiqm1m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1091379896396-nrbvdheh35t1d869scpo17totl1e496r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "isqrac.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
