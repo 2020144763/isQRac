@@ -1,0 +1,31 @@
+name: testenovo1
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  syncfusion_flutter_charts: ^19.1.0
+  syncfusion_flutter_core: ^19.1.0
+  barcode_scan2: ^4.2.4
+  cloud_firestore: ^4.7.1
+  firebase_core: ^2.13.0
+  flutter:
+    sdk: flutter
+  qr_code_scanner: ^1.0.1
+  intl: ^0.17.0
+  firebase_auth: ^4.6.2
+  provider: ^6.0.5
+charts_flutter: ^0.9.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  assets:
+        - assets/images/
+  uses-material-design: true
